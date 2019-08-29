@@ -1,7 +1,7 @@
 ---
 title: "PointPillars"
 date: 2019-08-29
-categories: paper review
+categories: paper-review
 ---
 
-!(/assets/pointpillars/pointpillar_title.png)
+<img data-action="zoom" src='{{"/assets/pointpillars/pointpillar_title.png" | relative_url }}' alt='relative'>
